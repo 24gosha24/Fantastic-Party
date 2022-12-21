@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+ border-radius: 10px;
+ border: 2px solid rgb(32, 32, 219);
+ background-color: lightblue;
+  padding: 5px;  
+}
+
+h1{
+  text-align: center;
+  color: lightblue;
+  background-color: rgb(32, 32, 219);
+  padding: 5px;
+  border-radius: 10px;
+  border: 2px solid lightblue;  
+}
+
+footer{
+  background-color: lightblue;
+  border: 2px solid navy;
+  border-radius: 10px;  
+}
+
+footer p{
+    background-color: white;
+    border: 5px solid lightblue ;
+}
+
+nav{
+    border:5px solid goldenrod;
+    border-radius: 10px;
+     background-color: gray;
+     text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    color: gold;
+    padding: 0 30px;
+}
+
+.p{
+  border: 3px solid gold;
+  background-color: gray;
+  border-radius: 10px;
+  text-align: center;  
+}
+
+.gg{
+ color: navy;
+ font-size: 40px;   
+}
+
+.f{
+  text-decoration: none;
+  border: 2px solid blue;
+  padding: 2px;  
+}
+
+header a{
+    text-decoration: none;
+}
+
